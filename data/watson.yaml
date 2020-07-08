@@ -1,0 +1,4 @@
+train: ./images/
+val: ./images/
+nc: 2
+names: ["watson","watson_others"]
